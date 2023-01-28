@@ -1,1 +1,10 @@
+![Color-logo-no-background-1-2048x522](https://user-images.githubusercontent.com/1696665/215295995-e78ff54d-fd62-4d76-bcd4-df433f2de302.png)
 
+# Nice to meet you! Let us tell you who we are
+
+Founded in 2016 and previously with the name Rentadrone.cl we are a Chile based company that pioneered the use of drones to detect anomalies in solar panels in the Atacama Desert, the most amazing place for solar energy generation. Rentadrone was twice backed by [UNICEF Innovation Fund](https://www.unicefinnovationfund.org/broadcast/updates/uncief-innovation-fund-graduate-rentadrone) where we were capable to develop open-source software to improve our internal processes and become chilean market leaders in the photovoltaic industry among all its phases. Engineering, Construction and Operation.
+
+## We have built a collection of best-in-class products:
+
+- [Photovoltaic Fault Detector](https://github.com/RentadroneCL/Photovoltaic_Fault_Detector): deep learning application for fault detection in photovoltaic plants.
+- [Solar platform](https://github.com/RentadroneCL/AI-Solar-Platform): Production-ready reference implementation of an administration tool for your organization projects.
