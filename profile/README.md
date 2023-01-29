@@ -12,3 +12,15 @@ Founded in 2016 and previously with the name Rentadrone.cl we are a Chile based 
 - [Solar platform](https://github.com/RentadroneCL/AI-Solar-Platform): Production-ready reference implementation of an administration tool for your organization projects.
 
 To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io).
+
+## Support us
+
+We craft web applications, software, and course with a growing portfolio of open-source packages, maintaining and supporting all issues and updates has become a substantial portion of our workload.
+
+You can support us with sponsorships or by buying one of our [paid products](https://simplemap.io).
+
+### You can support us with crypto donations throw ETH Network
+
+```"
+0x95d34596dB5A2f65f2a92B97955BF7920Fd1c9e3
+```
