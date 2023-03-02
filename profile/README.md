@@ -21,7 +21,7 @@ We craft web applications, software, and course with a growing portfolio of open
 
 You can support us with sponsorships or by buying one of our [paid products](https://simplemap.io).
 
-### You can support us with crypto donations throw ETH Network
+## You can support us with crypto donations throw ETH Network
 
 ```"
 0x95d34596dB5A2f65f2a92B97955BF7920Fd1c9e3
