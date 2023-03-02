@@ -1,4 +1,6 @@
-![Color-logo-no-background-1-2048x522](https://user-images.githubusercontent.com/1696665/215295995-e78ff54d-fd62-4d76-bcd4-df433f2de302.png)
+<p align="center" dir="auto">
+  <a href="https://simplemap.io" rel="nofollow"><img src="https://user-images.githubusercontent.com/1696665/222504918-2c16d594-be82-4914-8a19-e8af5dfb4b26.png" width="500" style="max-width: 100%;"></a>
+</p>
 
 # Nice to meet you! Let us tell you who we are
 
