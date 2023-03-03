@@ -8,7 +8,7 @@ Founded in 2016 and previously with the name Rentadrone.cl we are a Chile based 
 
 ## We have built a collection of best-in-class products:
 
-- [UAV THERMOGRAPHY](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography): Guidance for uav thermography.
+- [Guidance for UAV Thermography](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography): Involves careful consideration of factors such as the selection of the appropriate UAV, the type of thermographic camera, and the flight planning and data acquisition techniques.
 - [Photovoltaic Fault Detector](https://github.com/RentadroneCL/Photovoltaic_Fault_Detector): deep learning application for fault detection in photovoltaic plants.
 - [AI Agro](https://github.com/RentadroneCL/AI-Agro): Machine Learning Algorithms developed with the aim of determining health states of different types of crops.
 - [Solar platform](https://github.com/RentadroneCL/AI-Solar-Platform): Production-ready reference implementation of an administration tool for your organization projects.
